@@ -75,6 +75,11 @@ paginate_path: /blog/page:num
 excerpt_separator: <!--more-->
 excerpt_type: text # text | html
 
+author:
+  name: L·Y
+  email: 860297971@qq.com  #your Email address e.g. someone@site.com
+  github: https://github.com/q9liyan  #your GitHub username
+
 ## Build ##
 markdown: kramdown
 highlighter: rouge

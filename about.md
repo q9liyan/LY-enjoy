@@ -8,8 +8,8 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+	有为青年 +6 潜力股 +6 .....+6  
 
 {% highlight javascript %}
-  (() => console.log('hello, world!'))();
+  若有所思 必有所得
 {% endhighlight %}
